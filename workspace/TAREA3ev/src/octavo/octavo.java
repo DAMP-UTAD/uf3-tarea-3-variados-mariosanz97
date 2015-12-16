@@ -16,7 +16,7 @@ public class octavo {
 		System.out.print("Mes (1-12): ");
 		int mes = mes1.nextInt();
 
-		if (dia == 24) {
+		if (dia == 25) {
 
 			if (mes == 12) {
 				System.out.println("La fecha es de navidad ");
